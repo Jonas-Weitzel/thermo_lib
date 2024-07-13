@@ -1,7 +1,0 @@
-pypi-AgEIcHlwaS5vcmcCJDM3YzgzMDIxLTVlMzctNDlmMi05MDU0LTRjM2RiZmEzZjdmMAACKlszLCI5MDg4NmY0My02OWYxLTQxMDctYTMyYS0zN2ZkMWM5ZjlmYTIiXQAABiA_H7_QNqyNIerh6_RlgyoaIWG5hws-9_UFTK0ZOkcljg
-
-use:
-
-[pypi]
-  username = __token__
-  password = pypi-AgEIcHlwaS5...
