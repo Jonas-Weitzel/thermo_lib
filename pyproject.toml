@@ -1,5 +1,5 @@
 [project]
-name = "thermo_lib"
+name = "JWs_thermo_lib"
 version = "0.0.1"
 authors = [
   { name="Jonas Weitzel", email="jonas.weitzel@gmail.com" },
